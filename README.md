@@ -54,18 +54,25 @@ Assign to Jane Doe
 
 <h3>Working the Issue</h3>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Investigate the issue to identify the root cause as Jane.
 </p>
 
-img 
+![l3](https://github.com/user-attachments/assets/653ab3a1-aba5-4f60-9244-c1a324cd1211)
 
 <br>
 
 <h3>Resolution</h3>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Update the ticket with resolution details and close it.
 </p>
 
-img 
+
+![l4](https://github.com/user-attachments/assets/ecf81019-9b73-4641-bc4b-4932aab30a1e)
+
+<br>
+
+![l5](https://github.com/user-attachments/assets/fd16fe2b-02cd-4d77-b623-91d3b56b4fbf)
+
+
 
 
